@@ -264,7 +264,7 @@ input::placeholder {
 }
 
 /* single cocktail */
-.single-cocktail {
+.single-drink {
   width: 85vw;
   max-width: var(--max-width);
   margin: 0 auto;
